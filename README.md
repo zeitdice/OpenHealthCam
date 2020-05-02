@@ -11,5 +11,5 @@ This is work in progress. Please contact Michael Schwanzer if you would like to 
 * We are trying to create a solution that only uses components that can easily be procured and afterwards assembled and installed by anyone with minor technical skills. Through our partners we aim to also offer an assembled / pre-configured version at cost. 
 * We believe that only open-source software of thermal visual technology can and shall be potentially trusted by the public. A major difference between thermal cameras and the CCTV style security cameras (we are used to) is thermal camera's ability to capture visual data beyond what would be seen by another human at the scene.   
 
-### Initial Goal (might change)
+### Initial Goal (adapting as new challenges unearth)
 * Create an easy to assemble, deploy, maintain, operate and procure parts for thermal camera apparatus that can be used to automatically (no operator needed) detect humans with elevated body temperature while least invading their privacy when they are walking by in a defined space without interfering their path (like stopping them to push a button to get a screening).
